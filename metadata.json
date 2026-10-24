@@ -1,0 +1,8 @@
+{
+  "name": "Remix Hệ thống Đánh giá Xếp loại Viên chức TH&THCS Nguyễn Đình Chiểu",
+  "description": "Phần mềm đánh giá, chấm điểm thi đua và xếp loại viên chức theo Nghị định 233/2026/NĐ-CP và phân công chuyên môn năm học 2026-2027.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
